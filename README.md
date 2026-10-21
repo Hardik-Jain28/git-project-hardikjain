@@ -8,3 +8,7 @@ I am student in upgrad school of technology.
 - Commiunication
 - Problem solving 
 - Basic Git
+
+## Projects
+- LMS: one line about it
+- CMS: one line about it 
