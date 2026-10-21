@@ -12,3 +12,6 @@ I am student in upgrad school of technology.
 ## Projects
 - LMS: one line about it
 - CMS: one line about it 
+
+## Contact 
+- Email: hardik@email.com
