@@ -15,3 +15,7 @@ I am student in upgrad school of technology.
 
 ## Contact 
 - Email: hardik@email.com
+
+## Hobbies
+- Singing
+- Reading
